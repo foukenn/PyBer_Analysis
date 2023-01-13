@@ -28,6 +28,6 @@
 ### Deliverable 3
 
 ### Recommendations
-- Charge passengers more per mile in urban cities because the rides are most likely shorter, causing the urban drivers not to earn as much per trip compared to the other 2 city types.
+- Start charging passengers more per mile in the urban cities because the rides are most likely shorter, causing the urban drivers not to earn as much per trip compared to the other two city types.
 - Also within urban cities is that the number of drivers is greater than the total amount of rides, and lowering the driver count would boost the fare amount made by each driver.
-- Reversely, within suburban cities the number of rides is higher than drivers, and increasing the number of drivers might increase the number of rides and the number of fares earned.
+- Reversely, within suburban cities, the number of rides is higher than drivers, and increasing the number of drivers may increase the number of rides, along with fares. 
